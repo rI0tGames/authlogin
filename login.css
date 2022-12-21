@@ -35,6 +35,7 @@ body{
 .login input{
     padding: 0.7rem;
     margin-top: 1rem;
+    margin-left: -2rem;
     border-radius: 5px;
     background-color: rgba(235, 230, 230, 0.384);
     width: 12rem;
