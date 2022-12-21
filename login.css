@@ -1,5 +1,6 @@
 body{
     background-image:url("images/backgound.jpg") ; 
+    background-repeat: no-repeat;
 }
 .contenedor{
     width: 100%;
