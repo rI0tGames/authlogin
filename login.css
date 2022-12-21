@@ -136,6 +136,7 @@ body{
     color: white;
     margin-left: 1rem;
     margin-top: 11%;
+    font-family: sans-serif;
 }
 
 .cuenta{
@@ -146,6 +147,7 @@ body{
 .cuenta a{
     text-decoration: none;
     color: rgb(92, 90, 90);
+    font-family: sans-serif;
 }
 
 .sesion{
@@ -156,4 +158,5 @@ body{
 .sesion a{
     text-decoration: none;
     color: rgb(92, 90, 90);
+    font-family: sans-serif;
 }
