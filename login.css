@@ -2,8 +2,7 @@ body{
     width: 100%;
     background-image:url("images/backgound.jpg") ; 
     background-repeat: no-repeat;
-    background-size: 100% 100%;
-    background-position: center;
+    background-size: cover;
 }
 .contenedor{
     width: 100%;
@@ -17,7 +16,8 @@ body{
     width: 23rem;
     height: 30rem;
     background-color: rgba(255, 255, 255, 0.904);
-    margin-left: 33%;
+    margin-left: 40%;
+    margin-top: 5%;
 }
 
 .formulario h2{
@@ -134,7 +134,10 @@ body{
 
 .copy{
     color: white;
+    float: left;
+    color: white;
     margin-left: 1rem;
+    margin-top: 11%;
 }
 
 .cuenta{
