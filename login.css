@@ -3,9 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
-.contenedor{
-    width: 100%;
-}
+
 .logo img{
  width: 4rem;
  padding: 1rem;
