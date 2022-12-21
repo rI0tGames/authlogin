@@ -1,0 +1,154 @@
+body{
+    background-image:url("images/backgound.jpg") ; 
+}
+.contenedor{
+    width: 100%;
+}
+.logo img{
+ width: 4rem;
+ padding: 1rem;
+}
+
+.formulario{
+    width: 23rem;
+    height: 30rem;
+    background-color: rgba(255, 255, 255, 0.904);
+    margin-left: 33%;
+}
+
+.formulario h2{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.6rem;
+    padding: 4rem;
+}
+
+.login{
+    width: 20%;
+    padding: 6rem;
+    margin-top: -9rem;
+}
+
+.login input{
+    padding: 0.7rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    background-color: rgba(235, 230, 230, 0.384);
+}
+
+.login input:hover{
+    padding: 0.7rem;
+    margin-top: 1rem;
+    border-color:rgb(241, 23, 52) ;
+}
+
+.login button{
+    margin-top: 2rem;
+    text-align: center;
+    margin-left: 2.5rem;
+    background-color: rgb(241, 23, 52);
+    color: white;
+    border-color: rgb(241, 23, 52);
+    border-radius: 10px;
+    width: 7rem;
+}
+
+.login button:hover{
+    filter: brightness(80%);
+}
+
+.or{
+    color: rgb(121, 121, 121);
+    margin-left: 5rem;
+    margin-top: -5rem;
+}
+
+.icons{
+    margin-left: 6rem;
+    margin-top: -4.5rem;
+}
+
+.google img{
+    width: 1.5rem;
+}
+
+.google{
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgb(35, 162, 247);
+    margin-right: 0.5rem;
+}
+
+.google:hover{
+    filter: brightness(80%);
+}
+
+.facebook img{
+    width: 1.5rem;
+}
+
+.facebook{
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgb(4, 2, 122);
+    margin-right: 0.5rem;
+}
+
+.facebook:hover{
+    filter: brightness(80%);
+}
+
+.apple img{
+    width: 1.27rem;
+}
+
+.apple{
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgb(184, 178, 178);
+    margin-right: 0.5rem;
+}
+
+.apple:hover{
+    filter: brightness(80%);
+}
+
+.xbox img{
+    width: 1.5rem;
+}
+
+.xbox{
+    background-color: white;
+    border-radius: 10px;
+    border-color: rgb(3, 145, 67);
+    margin-right: 0.5rem;
+}
+
+.xbox:hover{
+    filter: brightness(80%);
+}
+
+.copy{
+    color: white;
+    margin-left: 1rem;
+}
+
+.cuenta{
+    color: rgb(92, 90, 90);
+    margin-left: 3.3rem;
+}
+
+.cuenta a{
+    text-decoration: none;
+    color: rgb(92, 90, 90);
+}
+
+.sesion{
+    margin-left: 1rem;
+    color: rgb(92, 90, 90);
+}
+
+.sesion a{
+    text-decoration: none;
+    color: rgb(92, 90, 90);
+}
