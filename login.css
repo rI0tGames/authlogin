@@ -54,6 +54,7 @@ body{
     background-color: rgb(241, 23, 52);
     color: white;
     border-color: rgb(241, 23, 52);
+    background-image: url("images/flecha.png");
     border-radius: 10px;
     width: 7rem;
 }
